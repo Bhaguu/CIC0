@@ -1,0 +1,142 @@
+{  
+   "Plants":[  
+      {  
+         "Plant_id":"S360",
+         "Description":"Plant New London",
+         "ProductDetails":[  
+            {  
+               "MaterialID":"9200100",
+               "Description":"Brilliance Monitor",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200200",
+               "Description":"Apple Keyboard",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200101",
+               "Description":"Brilliance Monitor HP",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200301",
+               "Description":"BlackBerry 990",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9200401",
+               "Description":"Apple IPad Mini 32 GB WiFi",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9205501",
+               "Description":"Thermostat 302",
+               "MaterialGroupDescr":"Electronics"
+            },
+            {  
+               "MaterialID":"9205502",
+               "Description":"Installation",
+               "MaterialGroupDescr":"Installation Services"
+            },
+            {  
+               "MaterialID":"9205503",
+               "Description":"Consulting Service",
+               "MaterialGroupDescr":"Consulting Services"
+            }
+         ]
+      },
+      {  
+         "Plant_id":"S260",
+         "Description":"Plant Chicago",
+         "ProductDetails":[  
+            {  
+               "MaterialID":"9200101",
+               "Description":"Brilliance Monitor",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200201",
+               "Description":"Apple Keyboard",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200101",
+               "Description":"Brilliance Monitor HP",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200301",
+               "Description":"BlackBerry 990",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9200401",
+               "Description":"Apple IPad Mini 32 GB WiFi",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9205501",
+               "Description":"Thermostat 302",
+               "MaterialGroupDescr":"Electronics"
+            },
+            {  
+               "MaterialID":"9205502",
+               "Description":"Installation",
+               "MaterialGroupDescr":"Installation Services"
+            },
+            {  
+               "MaterialID":"9205503",
+               "Description":"Consulting Service",
+               "MaterialGroupDescr":"Consulting Services"
+            }
+         ]
+      },
+      {  
+         "Plant_id":"S160",
+         "Description":"Plant New York",
+         "ProductDetails":[  
+            {  
+               "MaterialID":"9200103",
+               "Description":"Brilliance Monitor",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200200",
+               "Description":"Apple Keyboard",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200101",
+               "Description":"Brilliance Monitor HP",
+               "MaterialGroupDescr":"PC Hardware"
+            },
+            {  
+               "MaterialID":"9200301",
+               "Description":"BlackBerry 990",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9200401",
+               "Description":"Apple IPad Mini 32 GB WiFi",
+               "MaterialGroupDescr":"Smart phones"
+            },
+            {  
+               "MaterialID":"9205501",
+               "Description":"Thermostat 302",
+               "MaterialGroupDescr":"Electronics"
+            },
+            {  
+               "MaterialID":"9205502",
+               "Description":"Installation",
+               "MaterialGroupDescr":"Installation Services"
+            },
+            {  
+               "MaterialID":"9205503",
+               "Description":"Consulting Service",
+               "MaterialGroupDescr":"Consulting Services"
+            }
+         ]
+      }
+   ]
+}

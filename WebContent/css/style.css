@@ -1,0 +1,10 @@
+.size5 {
+  font-size : 4rem;
+}
+
+@media (max-width:599px) {
+	
+	.size4 {
+    font-size : 4rem;
+  }
+}

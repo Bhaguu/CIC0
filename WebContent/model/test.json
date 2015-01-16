@@ -1,0 +1,72 @@
+
+{
+	"results": [
+		{
+			"ProductId":"HT-1000",
+			"TypeCode":"PR",
+			"Category":"Notebooks",
+			"Name":"Notebook Basic 15",
+			"Description":"Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"SupplierId":"100000000",
+			"SupplierName":"SAP",
+			"TaxTarifCode":1,
+			"MeasureUnit":"EA",
+			"WeightMeasure":"4.200",
+			"WeightUnit":"KG",
+			"Price":"956.0000",
+			"CurrencyCode":"Rework",
+			"Width":"0.30",
+			"Depth":"0.18",
+			"Height":"0.03",
+			"DimUnit":"M",
+			"ProductPicUrl":"images/HT-1000.jpg",
+			"Status":"available",
+			"Condition":"01"
+		
+			
+			},
+			{
+			"ProductId":"HT-1001",
+			"TypeCode":"PR",
+			"Category":"Notebooks",
+			"Name":"Notebook Basic 17",
+			"Description":"Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"SupplierId":"100000001",
+			"SupplierName":"Becker Berlin",
+			"TaxTarifCode":1,"MeasureUnit":"EA",
+			"WeightMeasure":"4.500",
+			"WeightUnit":"KG",
+			"Price":"1249.0000",
+			"CurrencyCode":"Engineering",
+			"Width":"0.29",
+			"Depth":"0.17",
+			"Height":"0.03",
+			"DimUnit":"M",
+			"ProductPicUrl":"images/HT-1000.jpg",
+			"Status":"sold out",
+			"Condition":"02"
+			
+			},
+			{
+			"ProductId":"HT-1002","TypeCode":"PR","Category":"Notebooks","Name":"Notebook Basic 18","Description":"Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro","SupplierId":"100000002","SupplierName":"DelBont Industries","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"4.200","WeightUnit":"KG","Price":"1570.0000","CurrencyCode":"Normal","Width":"0.28","Depth":"0.19","Height":"0.03","DimUnit":"M","ProductPicUrl":"images/HT-1000.jpg","Status":"available","Condition":"03"
+			},
+			{
+			"ProductId":"HT-1003","TypeCode":"PR","Category":"Notebooks","Name":"Notebook Basic 19","Description":"Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro","SupplierId":"100000003","SupplierName":"Talpa","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"4.200","WeightUnit":"KG","Price":"1650.0000","CurrencyCode":"Special","Width":"0.32","Depth":"0.21","Height":"0.04","DimUnit":"M","ProductPicUrl":"images/HT-1000.jpg","Status":"backorder","Condition":"04"
+			},
+			{
+			"ProductId":"HT-1007","TypeCode":"PR","Category":"PDAs/Organizers","Name":"ITelO Vault","Description":"Digital Organizer with State-of-the-Art Storage Encryption","SupplierId":"100000004","SupplierName":"Panorama Studios","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"0.200","WeightUnit":"KG","Price":"299.0000","CurrencyCode":"Hold","Width":"0.32","Depth":"0.22","Height":"0.03","DimUnit":"M","ProductPicUrl":"images/telo.jpg","Status":"discontinued","Condition":"05"
+			},
+			{
+			"ProductId":"HT-1010","TypeCode":"PR","Category":"Notebooks","Name":"Notebook Professional 15","Description":"Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro","SupplierId":"100000005","SupplierName":"TECUM","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"4.300","WeightUnit":"KG","Price":"1999.0000","CurrencyCode":"Pay in Portion","Width":"0.33","Depth":"0.20","Height":"0.03","DimUnit":"M","ProductPicUrl":"images/HT-1000.jpg","Status":"available","Condition":"06"
+			},
+			{
+			"ProductId":"HT-1011","TypeCode":"PR","Category":"Notebooks","Name":"Notebook Professional 17","Description":"Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro","SupplierId":"100000006","SupplierName":"Asia High tech","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"4.100","WeightUnit":"KG","Price":"2299.0000","CurrencyCode":"Pay Upfront","Width":"0.33","Depth":"0.23","Height":"0.02","DimUnit":"M","ProductPicUrl":"images/HT-1000.jpg","Status":"backorder","Condition":"07"
+			},
+			{
+			"ProductId":"HT-9991","TypeCode":"PR","Category":"Accessories","Name":"Smartphone Leather Case","Description":"Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models","SupplierId":"100000024","SupplierName":"JaTeCo","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"0.020","WeightUnit":"KG","Price":"25.0000","CurrencyCode":"Replacement","Width":"0.48","Depth":"0.31","Height":"0.05","DimUnit":"M","ProductPicUrl":"images/leather case.jpg","Status":"discontinued"
+			},
+			{
+			"ProductId":"HT-9992","TypeCode":"PR","Category":"Smartphones","Name":"Smartphone Alpha","Description":"7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black","SupplierId":"100000023","SupplierName":"GetrankegroBhandel Janssen","TaxTarifCode":1,"MeasureUnit":"EA","WeightMeasure":"0.750","WeightUnit":"KG","Price":"599.0000","CurrencyCode":"Rush","Width":"0.48","Depth":"0.31","Height":"0.05","DimUnit":"M","ProductPicUrl":"images/genericph.jpg","Status":"available"
+			}
+			]
+}

@@ -1,0 +1,38 @@
+<core:FragmentDefinition
+  xmlns="sap.m"
+  xmlns:core="sap.ui.core">
+  <Dialog
+    title=" Select Customer "
+    class="sapUiPopupWithPadding" >
+    <subHeader>
+      <Toolbar>
+        <SearchField width="100%" />
+      </Toolbar>
+    </subHeader>
+    <content>
+      <List
+			id="plant_list"
+			mode="{device>/listMode}"			
+			items="{/Plants}" >
+			<ObjectListItem
+				type="{device>/listItemType}"
+				press="handleDialogboxPress"
+				title="{Description}"
+				number="{Plant_id}">
+				<attributes>
+					<!-- <ObjectAttribute text="{MaterialGroupDescr}" /> -->
+				</attributes>
+				<firstStatus>
+					
+				</firstStatus>
+			</ObjectListItem>
+		</List>
+    </content>
+    <beginButton>
+      <Button text="Ok" press="onOkDialog" />
+    </beginButton>
+    <endButton>
+      <Button text="Close" press="onCloseDialog" />
+    </endButton>
+  </Dialog>
+</core:FragmentDefinition>
